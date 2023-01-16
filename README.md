@@ -1,7 +1,7 @@
 # Pixel Quest
 
 <center>
-  <img src="Pictures/Screenshots/pixel_adventure.png" width="640"/>
+  <img src="Asssets/Enemies/Ghost/1.png" width="640"/>
 </center>
 
 ## Acknowledgements
