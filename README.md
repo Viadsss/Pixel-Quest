@@ -1,9 +1,10 @@
 # Pixel Quest
 ## Download the game here:
-https://viads.itch.io/pixel-quest
+ - https://viads.itch.io/pixel-quest
 
-![Pixel Quest Title](Assets/Other/pixel_adv_title.png?raw=true "Title")
-![Pixel Quest Gameplay](Assets/Other/pixel_adventure.png?raw=true "Gameplay")
+## Screenshots
+ - ![Pixel Quest Title](Assets/Other/pixel_adv_title.png?raw=true "Title")
+ - ![Pixel Quest Gameplay](Assets/Other/pixel_adventure.png?raw=true "Gameplay")
 
 ## Acknowledgements
 - Graphic assets: https://pixelfrog-assets.itch.io/
